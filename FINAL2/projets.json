@@ -1,0 +1,65 @@
+[
+  {
+    "Categorie": "Encadrement",
+    "Date_fin": "2024-07-30",
+    "Type": "Thèse",
+    "Description": "Rédaction d'un article de recherche",
+    "Date_debut": "2024-04-01",
+    "Id_Projet": "1",
+    "Nom": "Projet 1"
+  },
+  {
+    "Categorie": "Enseignement",
+    "Date_fin": "2024-08-15",
+    "Type": "Cours",
+    "Description": "Préparation d'un nouveau cours",
+    "Date_debut": "2024-05-01",
+    "Id_Projet": "2",
+    "Nom": "Projet 2"
+  },
+  {
+    "Categorie": "Encadrement",
+    "Date_fin": "2024-09-01",
+    "Type": "Mémoire",
+    "Description": "Encadrement d'un étudiant de master",
+    "Date_debut": "2024-06-01",
+    "Id_Projet": "3",
+    "Nom": "Projet 3"
+  },
+  {
+    "Categorie": "Recherche",
+    "Date_fin": "2024-10-01",
+    "Type": "Conférence",
+    "Description": "Préparation d'une présentation pour une conférence",
+    "Date_debut": "2024-07-01",
+    "Id_Projet": "4",
+    "Nom": "Projet 4"
+  },
+  {
+    "Categorie": "Enseignement",
+    "Date_fin": "2024-11-01",
+    "Type": "Atelier",
+    "Description": "Organisation d'un atelier pour les étudiants",
+    "Date_debut": "2024-08-01",
+    "Id_Projet": "5",
+    "Nom": "Projet 5"
+  },
+  {
+    "Categorie": "Encadrement",
+    "Date_fin": "2024-06-07",
+    "Type": "Examen",
+    "Description": "Examen de fin semestre",
+    "Date_debut": "2024-06-01",
+    "Id_Projet": "12",
+    "Nom": "Projet 6"
+  },
+  {
+    "Categorie": "Encadrement",
+    "Date_fin": "1111-11-11",
+    "Type": "Examen",
+    "Description": "2222",
+    "Date_debut": "1111-11-22",
+    "Id_Projet": "356",
+    "Nom": "Salmaxx"
+  }
+]

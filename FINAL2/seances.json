@@ -1,0 +1,47 @@
+[
+  {
+    "Id_projet": "4",
+    "Description": "cours Java GI2",
+    "Date_seance": "2024-05-07",
+    "Heure_Debut": "09:00",
+    "Heure_fin": "12:00",
+    "Id_seance": "1",
+    "Note": "Salle Info 1"
+  },
+  {
+    "Id_projet": "5",
+    "Description": "cours Python GI2",
+    "Date_seance": "2024-05-07",
+    "Heure_Debut": "09:00",
+    "Heure_fin": "12:00",
+    "Id_seance": "2",
+    "Note": "Salle Info 2"
+  },
+  {
+    "Id_projet": "3",
+    "Description": "cours Web GI3",
+    "Date_seance": "2024-05-08",
+    "Heure_Debut": "10:00",
+    "Heure_fin": "13:00",
+    "Id_seance": "3",
+    "Note": "Salle Info 3"
+  },
+  {
+    "Id_projet": "1",
+    "Description": "cours Réseaux GI1",
+    "Date_seance": "2024-05-09",
+    "Heure_Debut": "11:00",
+    "Heure_fin": "14:00",
+    "Id_seance": "4",
+    "Note": "Salle Info 4"
+  },
+  {
+    "Id_projet": "2",
+    "Description": "cours Base de données GI2",
+    "Date_seance": "2024-05-10",
+    "Heure_Debut": "12:00",
+    "Heure_fin": "15:00",
+    "Id_seance": "5",
+    "Note": "Salle Info 5"
+  }
+]
